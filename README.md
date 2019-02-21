@@ -1,8 +1,6 @@
-# Setting up Webpack 4 for a project
+# Webpack 4 for a project
 
-This is the demo app for the webpack 4 tutorial.
-
-Read more: [Setting up webpack 4 for a project](https://auralinna.blog/post/2018/setting-up-webpack-4-for-a-project?utm_source=github)
+Webpack 4 foundation for the project
 
 ## NPM commands
 
